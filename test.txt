@@ -1,7 +1,12 @@
 <<<<<<< HEAD
 initial commit
+<<<<<<< HEAD
 =======
 initial commit
+2nd commit
+3rd commit
+>>>>>>> 99ed768 (3rd commit)
+=======
 2nd commit
 3rd commit
 >>>>>>> 99ed768 (3rd commit)
